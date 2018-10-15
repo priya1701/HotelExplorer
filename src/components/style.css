@@ -1,0 +1,7 @@
+.vertical-timeline-element-content {
+    color: black;
+}
+
+.vertical-timeline-element--work .vertical-timeline-element-content {
+    border-top: 3px solid #2196f3;
+}
